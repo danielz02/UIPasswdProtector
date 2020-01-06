@@ -1,0 +1,10 @@
+{
+  "name": "U of I Password Protector",
+  "version": "1.0",
+  "description": "Protect your AD password from being scrambled while you are using third-party VPN/proxies",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "manifest_version": 2
+}
